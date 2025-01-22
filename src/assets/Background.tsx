@@ -37,7 +37,7 @@ export function AuroraBackgroundDemo() {
            Using Technology and Business
         </div>
         <div className="bg-black dark:bg-gray-300 rounded-lg w-fit text-white dark:text-black px-4 py-2 text-sm md:text-base">
-          Software Engineering
+          BESc. Software Engineering
         </div>
 
         {/* Icons and Text */}
