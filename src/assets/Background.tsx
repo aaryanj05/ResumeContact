@@ -37,7 +37,7 @@ export function AuroraBackgroundDemo() {
            Using Technology for Social Impact
         </div>
         <div className="bg-black dark:bg-gray-300 rounded-lg w-fit text-white dark:text-black px-4 py-2 text-sm md:text-base">
-          BESc. Software Engineering
+          Ivey HBA & Software Engineering
         </div>
 
         {/* Icons and Text */}
