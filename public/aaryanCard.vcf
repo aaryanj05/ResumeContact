@@ -1,9 +1,10 @@
 BEGIN:VCARD
-VERSION:3.0
+VERSION:4.0
 FN:Aaryan Joharapurkar
 N:Joharapurkar;Aaryan;;;
-TITLE:Software Engineering & Ivey HBA
-TEL:+16479161230
-EMAIL:aaryanj@outlook.com
+TITLE:Data Engineering Strategy
+ORG:Software Engineering & Ivey HBA
+TEL;TYPE=cell:+1-647-916-1230
+EMAIL;TYPE=work:aaryanj@outlook.com
 URL:https://linkedin.com/in/aaryanj
 END:VCARD
