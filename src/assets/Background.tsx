@@ -109,6 +109,31 @@ export function AuroraBackgroundDemo() {
           </span>
         </a>
 
+        {/* Website Icon with Text */}
+        <a
+          href="https://aaryanj.tech/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="flex items-center gap-2 cursor-pointer hover:bg-gray-100 dark:hover:bg-gray-700 rounded-lg p-2"
+        >
+          <svg
+            className="h-6 w-6 md:h-9 md:w-9 text-black dark:text-white"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="2"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+          >
+            <circle cx="12" cy="12" r="10" />
+            <line x1="2" y1="12" x2="22" y2="12" />
+            <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z" />
+          </svg>
+          <span className="text-sm md:text-lg dark:text-white">
+            aaryanj.tech
+          </span>
+        </a>
+
         <a
           href="/aaryanCard.vcf"
           download="AaryanJoharapurkar.vcf"
